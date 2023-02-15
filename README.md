@@ -6,4 +6,4 @@ A simple AJAX Search adn Load More example. This will perfectly work on [WPLMS T
 
 ## Visual Look
 
-<img src="./ajax.gif"/>
+![](ajax.gif)
